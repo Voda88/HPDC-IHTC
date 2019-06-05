@@ -4,5 +4,8 @@ This is an implementation of the High-pressure die-casting model published by Ha
 
 The necessary derivations are available in Mathematica notebook and pdf format in the files derivations.nb and derivations.pdf
 
+The following flowchart demonstrates how to use the model:
+
+![Flowchart]https://github.com/Voda88/HPDC-IHTC/blob/master/flowchart.png
 
 
