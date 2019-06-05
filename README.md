@@ -6,6 +6,6 @@ The necessary derivations are available in Mathematica notebook and pdf format i
 
 The following flowchart demonstrates how to use the model:
 
-![Flowchart]https://github.com/Voda88/HPDC-IHTC/blob/master/flowchart.png
+![Flowchart](https://github.com/Voda88/HPDC-IHTC/blob/master/flowchart.png)
 
 
